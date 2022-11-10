@@ -42,7 +42,7 @@ Contains over 200+ plugins. This will give you a better experience on WhatsApp. 
   <b><h1>To scan the Qr code and Link 🔗 to WhatsApp Multi Device (24×7 Hour Bot) 🛰️</b></h1>
   
  <center>
-<a href="https://replit.com/@zenoi/Garfield-Whatsapp-Bot-Multidevice-Linker-v80?v=1outputonly=1&lite=1"><img src="/Cloud/PicsArt_22-04-16_22-52-38-348.png"></center>
+<a href="https://replit.com/@NoLove1/SACHITH-MD-SL?v=1"><img src="/Cloud/PicsArt_22-04-16_22-52-38-348.png"></center>
 <br>
    <b><h1>Deploy Now ♨️</b></h1>
    <a href="https://heroku.com/deploy"><img src="/Cloud/PicsArt_22-04-15_12-59-28-786.png">
