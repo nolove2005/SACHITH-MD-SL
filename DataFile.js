@@ -1,5 +1,5 @@
-// 👈 You Can change this your choice 
-// 👈 You Can change this your choice  
+// 👈 අදාල දෙවල් විතරක් වෙනස් කරන්න👍 
+// ⚠️ ❍🇸 🇦 🇨 🇭 🇮 🇹 🇭  ＭＤ ＷＡ ＢＯＴ ＳＬ❍⚠️  
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -14,14 +14,14 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 // 👈 You Can change this your choice
-global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
-global.symb = '█' // 👈  Enter Any ▁ ▂ █ ░ ▘ □ ▣
-global.symb2 = '▎ █' // 👈 Enter Any ▬▓▌▎■
-global.symb3 = '▬' // 👈 Enter Any ▅ ▂ ▁ ▊
-global.emoji02 = ['🦋'] //👈 Enter your Emoji
+global.emoji01 = ['⚠️'] // 👈 ඔයා කැමති ඉමොජි එකක් දාන්න👍
+global.symb = '█' // 👈  මෙ තියෙන එවගෙන් එකක් පමනක්👍👉 ▁ ▂ █ ░ ▘ □ ▣
+global.symb2 = '▎ █' // 👈 මෙ තියෙන එවගෙන් එකක් පමනක්👍👉 ▬▓▌▎■
+global.symb3 = '▬' // 👈 මෙ තියෙන එවගෙන් එකක් පමනක්👍👉 ▅ ▂ ▁ ▊
+global.emoji02 = ['♥️'] //👈 කැමති ඉමොජි එකක් දාන්න👍
 global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
+*🇸 🇦 🇨 🇭 🇮 🇹 🇭*
+*I am 17 years old developer...*
 *From Sri Lanka 🇱🇰*
 *I am a Learning.*
 *Not more..*
@@ -31,26 +31,26 @@ global.owner =  ['+94711502119'] //👈  Enter Your number
 global.premium =  ['+94711502119'] //👈  Enter Your number
 global.ownernomer = '+94711502119' //👈  Enter Your number
 global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
+global.botname = 'ＳＡＣＨＩＴＨ ＭＤ ＢＯＴ' //👈 Enter Your Bot name
+global.footer = '✵𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝙎𝘼𝘾𝙃𝙄𝙏𝙃' //👈 Enter Your Name
+global.ig = 'https://github.com/nolove2005/SACHITH-MD-SL' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
+global.sc = 'https://github.com/nolove2005/SACHITH-MD-SL'
 global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
-global.myweb = 'https://www.facebook.com/garfieldbots/'// 👈 Enter your Social media link to follow now button
-global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
-global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.myweb = 'https://github.com/nolove2005/SACHITH-MD-SL/'// 👈 Enter your Social media link to follow now button
+global.welcome = '*ගෘපට ආදරයෙන් පිලිගන්නො' // 👈 You Can change this your choice
+global.bye = '*Bye bye Mother fucker 🤣*' // 👈 You Can change this your choice
+global.packname = 'ＳＡＣＨＩＴＨ ＭＤ ＢＯＴ'  // 👈 You Can change this your choice 
+global.author = 'SACHITH MD SL WA' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
-global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png'
+global.thumb =  'https://i.imgur.com/NGaJQta.jpeg' 
+global.spoty = 'https://i.imgur.com/NGaJQta.jpeg'
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
-    success: 'Done 🦋', // 👈 You Can change this your choice
+    success: 'ඉවරයි හොදෙ 🚫', // 👈 You Can change this your choice
     admin: 'This Feature Is Only For Admin!', // 👈 You Can change this your choice
     botAdmin: 'Bot Must Be Admin First!', // 👈 You Can change this your choice
     owner: 'This Feature Is Only For Owner!', // 👈 You Can change this your choice
@@ -61,7 +61,7 @@ global.mess = {
     error: 'Error! Maybe Api Key Is Expired🤔!', // 👈 You Can change this your choice
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 } // 👈 You Can change this your choice
-/// Do Not Change 👇 
+/// මෙවා වෙනස් කරන්න එපා...🚫 👇 
 global.limitAwal = "99999999999999999"
 global.lolkey = "835641f3d2d1b6971e1fd132"
 global.xteam = "apivproject"
@@ -97,22 +97,22 @@ fs.watchFile(file, () => {
 })
 
 
-
+///⚠️මෙක ආදාල නැ...ඔයාලට..⚠️👇
 // Update Logs
 // New Menu Ui
 /*
 ▬
 ▎ Hi  Ｚ Ξ ＮＯＩ 👋 
-▎ ＧＡＲＦＩＥＬＤ ＢＯＴ
+▎ ＳＡＣＨＩＴＨ ＭＤ ＷＡ ＢＯＴ
 ▎ █ 𝗦𝗽𝗲𝗲𝗱 : 0.00119 miliseconds
 ▎ █ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : 9 hours, 58 minutes, 23 seconds
-▎ █ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ＧＡＲＦＩＥＬＤ ＢＯＴ 
-▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ZENOI
-▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : +94711502119
-▎ █ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ZENOI
+▎ █ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ＳＡＣＨＩＴＨ ＢＯＴ 
+▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : SACHITH
+▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : +94767233346
+▎ █ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : SACHITH
 ▎ █ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : linux
 ▎ █ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : 11
-   Ｍｅｎｕ Ｃｏｍｍａｎｄｓ🌀
+   ⚠️ＢＯＴ ＣＯＭＡＮＤＯ⚠️
    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 
    *▓  AllMenu* 
    *▓  DownloadMenu*
@@ -123,11 +123,11 @@ fs.watchFile(file, () => {
    *▓  Databasemenu*
    *▓  Gamemenu*
    
-▎ ️ＧＡＲＦＩＥＬＤ ＢＯＴ  Created by ZENOI  🪁
-▎ ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т v8.6 and 
-▎ 𝖭Ξ𝖴𝖱Λ𝖫 ΛＩ v1.00             
+▎ ️ＳＡＣＨＩＴＨ ＢＯＴ  Created by SACHITH
+▎ 🇸 🇦 🇨 🇭 🇮 🇹 🇭  ＭＤ ＷＡ ＢＯＴ ＳＬ
+▎ ＳＡＣＨＩＴＨ ＳＬ ＭＯＤＺ             
 ⭕►▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-   ▎ ＧＡＲＦＩＥＬＤ ＢＯＴ
+   ▎ ＳＡＣＨＩＴＨ ＢＯＴ
    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁
  ▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 ▎ 
