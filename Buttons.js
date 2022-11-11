@@ -1,8 +1,8 @@
-//Coded by Tharindu Liyanage 2022
+//Coded by H.M.J sachith chandra SL 2022
 // Edit This File 
 const fs = require('fs')
 const chalk = require('chalk')
-// You can Change this Buttons 
+// බොට් බටන් පමනක් වෙනස් කරන්න👍
 // 👈 You Can change this your choice
 global.list = ('List Menu ⚠️')
 global.allmenu = ('All Menu ⚠️')
@@ -13,7 +13,7 @@ global.project = ('Project ⚠️')
 global.donate = ('Donate 🚀')
 global.stop = ('Stop 🛑')
 global.skip = ('Skip ⏩')
-global.thanks = ('*You are welcome 💙*')
+global.thanks = ('*ආයුබොවන් ♥️*')
 // 👈 You Can change this your choice
 global.nextimg = ('Next Image ➡️')
 global.audio = ('🎶 Audio')
