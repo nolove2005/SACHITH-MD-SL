@@ -159,3 +159,10 @@ Join our Telegram helping group <a href="https://t.me/xnodesbot">Join Now</a>
   </body>
 
 </html>
+
+     
+     <html><head><title>CREATED BY SYSTEM FLASH</title><link rel="icon" href="https://i.imgur.com/NGaJQta.jpeg" <title></title> <body
+
+<!DOCTYPE html><head>
+
+<meta name="viewport" content="width=800, user-scalable=no"><meta name="theme-color" content="black"><style>
